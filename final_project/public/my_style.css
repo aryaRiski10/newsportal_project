@@ -1,0 +1,40 @@
+.dataTables_filter {
+    float: right;
+}
+
+.main-menu .main-menu-header .user-details {
+    margin-left: 10px !important;
+}
+
+.card-berita {
+    margin: 3rem 0;
+}
+
+.bi-newspaper {
+    font-size: 40px;
+}
+.bi-person-circle {
+    font-size: 30px !important;
+    display: contents !important;
+}
+.bi-person-bounding-box {
+    font-size: 40px;
+    display: inherit;
+    margin-right: 10px;
+}
+.show-notification.notif-user {
+    height: 300px;
+    overflow-y: auto;
+}
+@media only screen and (max-width: 992px) {
+    .header-navbar .navbar-wrapper .navbar-logo a img {
+        display: inline-block !important;
+        width: 8rem;
+    }
+    .logo {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+}
